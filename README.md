@@ -47,6 +47,14 @@ THEN I should have proper build scripts for a webpack application
 
 ```
 
+
+## Screenshots
+
+<img src="./screenshots/ssh1.PNG">
+<img src="./screenshots/ss2.PNG">
+<img src="./screenshots/ss3.PNG">
+<img src="./screenshots/ss4.PNG">
+
 ## Link to Deployed Application
 
 https://pwa-text-editor190.herokuapp.com/
