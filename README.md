@@ -49,3 +49,4 @@ THEN I should have proper build scripts for a webpack application
 
 ## Link to Deployed Application
 
+https://pwa-text-editor190.herokuapp.com/
